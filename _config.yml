@@ -1,6 +1,4 @@
-title: DomainNetworx
-description: Professional domain listing services.
-remote_theme: chrisrhymes/bulma-clean-theme
-
-plugins:
-  - jekyll-remote-theme
+title: Domain Listings LLC
+description: Professional Domain Directory & Business Listing Services
+theme: jekyll-theme-primer
+markdown: kramdown
