@@ -1,22 +1,37 @@
-# Domain Listings LLC — Professional Domain Management & Business Directory Services
+---
+layout: page
+title: Domain Listings LLC
+subtitle: Professional Domain Directory & Business Listing Services
+---
 
-## Supporting Businesses With Accurate, Verified Online Listings
+<section class="hero is-info is-medium">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">Domain Listings LLC</h1>
+      <h2 class="subtitle">Supporting Businesses With Verified Online Directory Listings</h2>
+    </div>
+  </div>
+</section>
 
-Domain Listings LLC provides domain‑related publication services designed to help businesses maintain a consistent and credible online presence. Our goal is to ensure that business owners have access to accurate directory listings, updated domain information, and optional promotional visibility across multiple online channels.
+<section class="section">
+  <div class="container content">
 
-In today’s digital environment, maintaining correct domain and business information is essential. Outdated or missing listings can affect search visibility, customer trust, and brand reputation. Domain Listings LLC helps bridge that gap by offering a centralized service for listing verification and publication.
+## About Domain Listings LLC
+Domain Listings LLC provides professional domain‑related publication services that help businesses maintain accurate, verified, and consistent online listings. Our directory supports companies in establishing a credible digital presence by ensuring their domain and business information remains accessible and up‑to‑date.
+
+Maintaining correct business information online is essential for customer trust, search visibility, and brand reputation. Our service helps bridge that gap by offering a centralized listing and verification process.
 
 ---
 
-## What Our Service Provides
+## What Our Service Includes
 
-### **1. Annual Domain Listing Publication**
-We maintain a professional directory where businesses can publish their domain name, contact information, and company details. This helps ensure that essential information remains accessible and consistent across the web.
+### **Annual Domain Listing Publication**
+We maintain a professional directory where businesses can publish their domain name, contact information, and company details. This ensures essential information remains visible and consistent across the web.
 
-### **2. Business Information Verification**
+### **Business Information Verification**
 Our team reviews submitted business details for accuracy and completeness, helping companies avoid outdated or conflicting information online.
 
-### **3. Optional Visibility Enhancements**
+### **Optional Visibility Enhancements**
 Businesses may choose to include additional information such as:
 - Company description  
 - Industry category  
@@ -28,29 +43,12 @@ These enhancements help improve credibility and customer trust.
 
 ---
 
-## Why Businesses Receive a Notice From Domain Listings LLC
+## Why You Received a Notice
+Domain Listings LLC sends annual notices to businesses whose domain names appear in our directory database. These notices are **not domain registration invoices** and are **not required for domain ownership**.
 
-Domain Listings LLC sends annual notices to businesses whose domain names appear in our directory database. These notices are **not domain registration invoices** and are **not required for domain ownership**. Instead, they are an optional listing service for businesses that want to maintain or update their directory presence.
+They are optional listing services for businesses that want to maintain or update their directory presence.
 
 Our notices clearly state:
 - The service is optional  
-- The listing is not related to domain registration  
-- No action is required unless the business chooses to publish or update their listing  
-
-This transparency is central to our commitment to ethical business practices.
-
----
-
-## Our Commitment to Professional Standards
-
-Domain Listings LLC operates with a focus on:
-- Accuracy  
-- Transparency  
-- Professional communication  
-- Clear service descriptions  
-- Straightforward publication processes  
-
-We believe that businesses deserve clarity when managing their online presence, and our service is designed to support that goal.
-
----
+-
 
