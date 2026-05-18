@@ -1,18 +1,6 @@
 title: DomainNetworx
-description: Insights, automation tools, and professional resources.
+description: Professional domain listing services.
 remote_theme: chrisrhymes/bulma-clean-theme
 
 plugins:
   - jekyll-remote-theme
-
-navbar:
-  - name: Home
-    link: /
-  - name: Articles
-    link: /articles
-  - name: About
-    link: /about
-  - name: Contact
-    link: /contact
-
-footer: "© 2026 DomainNetworx — Built with GitHub Pages"
